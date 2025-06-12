@@ -30,6 +30,12 @@ The model was trained on a dataset containing a collection of emails labeled as 
 
 ## 🚀 How to Run the Project
 
+### Run in the Cloud (Interactive)
+
+You can run and interact with this notebook directly in your browser using these platforms:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/N8el/email_spam_classifier/blob/main/Email%20spam%20classifier.ipynb)
+
 To run this project on your local machine:
 
 ### Prerequisites
