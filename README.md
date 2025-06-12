@@ -52,10 +52,9 @@ To run this project on your local machine:
 1.  **Clone the repository (or download the files):**
     If you've cloned it:
     ```bash
-    git clone [https://github.com/YourGitHubUsername/Email-Spam-Classifier.git](https://github.com/YourGitHubUsername/Email-Spam-Classifier.git)
-    cd Email-Spam-Classifier
+    git clone [https://github.com/N8el/email_spam_classifier.git](https://github.com/N8el/email_spam_classifier.git)
+    cd email_spam_classifier
     ```
-    *(Remember to replace `YourGitHubUsername` and `Email-Spam-Classifier` with your actual GitHub username and repository name.)*
 
 2.  **Place the dataset:** Ensure the `mail_data.csv` file is located in the same directory as your Jupyter Notebook (`.ipynb`) file.
 
@@ -64,9 +63,10 @@ To run this project on your local machine:
     jupyter notebook
     ```
 
-4.  **Open the notebook:** In the Jupyter interface that opens in your browser, click on your project's `.ipynb` file (e.g., `Email_Spam_Classifier.ipynb`).
+4.  **Open the notebook:** In the Jupyter interface that opens in your browser, click on your project's `.ipynb` file (e.g., `email_spam_classifier.ipynb`).
 
 5.  **Run all cells:** Execute all cells in the notebook sequentially to see the data loading, preprocessing, model training, evaluation, and the interactive prediction example.
+
 
 ## 🎯 Model Performance
 
