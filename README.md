@@ -36,6 +36,9 @@ You can run and interact with this notebook directly in your browser using these
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/N8el/email_spam_classifier/blob/main/Email%20spam%20classifier.ipynb)
 
+> ⚠️ **Note:** The dataset (`mail_data.csv`) is **not included** in the repository.  
+> After opening the notebook in Colab, you’ll need to **manually upload the CSV file**.
+
 To run this project on your local machine:
 
 ### Prerequisites
